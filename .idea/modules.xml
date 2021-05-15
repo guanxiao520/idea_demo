@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JAVA11_DEMO/JAVA11_DEMO.iml" filepath="$PROJECT_DIR$/../JAVA11_DEMO/JAVA11_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_demo/Java8_demo.iml" filepath="$PROJECT_DIR$/Java8_demo/Java8_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea2eclipse/idea2eclipse.iml" filepath="$PROJECT_DIR$/idea2eclipse/idea2eclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_demo/maven_demo/maven_demo.iml" filepath="$PROJECT_DIR$/Java8_demo/maven_demo/maven_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo/springboot_demo.iml" filepath="$PROJECT_DIR$/springboot_demo/springboot_demo.iml" />
+    </modules>
+  </component>
+</project>
